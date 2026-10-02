@@ -1,0 +1,7 @@
+# Ignore OS temporary files
+.DS_Store
+*.swp
+*.tmp
+
+# Note: If you ever separate database credentials into a config.php file, add it here:
+# config.php
